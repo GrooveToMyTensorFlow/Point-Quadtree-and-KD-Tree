@@ -30,8 +30,7 @@ Note: Additional support methods such as `FindMin` for the KDTree may also be re
 
 4. In a separate document, comment on which implementation (point quadtree or kd-tree) you would choose to support the storage of multi-dimensional keys.
 
-# Comment on which implementation (point quadtree or kd-tree) would you choose to support the 
-storage of multi-dimensional keys:
+# Comment on which implementation (point quadtree or kd-tree) would you choose to support the storage of multi-dimensional keys:
 Although both Point Quadtree and KD-Tree are viable data structures for storing multi-dimensional keys, 
 choosing one over the other is contingent upon the specific use case and requirements. Nonetheless, a 
 comprehensive analysis reveals that KD-Tree stands out as the more robust choice for supporting multi-
